@@ -1,19 +1,19 @@
 # Elijah Hirsch
 
-AI consultant focused on building practical, structured AI systems.
+AI Systems Developer building production AI applications, document intelligence platforms, backend APIs, and workflow automation systems.
 
-I design and build AI workflows, prompt-driven applications, backend APIs, and production web tools with an emphasis on reliability, structured outputs, and real-world execution.
+I design and deploy AI-powered software using Python, FastAPI, Next.js, TypeScript, and OpenAI APIs with a focus on reliability, structured outputs, and real-world business applications.
 
 ## Core Focus
 
-- Prompt engineering
+- AI application development
+- Document intelligence systems
 - Structured LLM workflows
-- AI validation / deterministic generation
-- Python backend systems
-- FastAPI API architecture
-- TypeScript / Next.js applications
-- Document automation
+- FastAPI backend engineering
+- Python automation systems
+- API integrations
 - Workflow orchestration
+- Production deployments
 
 ## Featured Projects
 
