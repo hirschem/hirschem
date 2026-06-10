@@ -65,7 +65,7 @@ Production business website built and deployed for a live property marketing use
 
 ## Background
 
-I transitioned into software and AI systems development after hands-on operational work in construction and service industries, with a focus on solving practical workflow problems through automation.
+I transitioned into software and AI systems development after hands-on operational work in construction and service industries, with a focus on solving practical workflow problems through automation. Engineering Bachelor's from the University of Colorado Boulder and certified AI developer through IBM.
 
 ## Connect
 
