@@ -8,7 +8,7 @@ I design and deploy AI-powered software using Python, FastAPI, Next.js, TypeScri
 
 - AI application development
 - Document intelligence systems
-- Structured LLM workflows
+- LLM Application Development
 - FastAPI backend engineering
 - Python automation systems
 - API integrations
@@ -16,11 +16,17 @@ I design and deploy AI-powered software using Python, FastAPI, Next.js, TypeScri
 - Production deployments
 
 ## Featured Projects
+Current Focus:
+- Production AI applications
+- FastAPI backend systems
+- Document intelligence
+- Workflow automation
+- LLM-powered business tools
 
 ### mph-vip
-AI-powered document automation platform for transforming handwritten contractor notes into polished business documents.
+Production AI document intelligence platform that converts handwritten construction documents into structured invoices, proposals, inspection reports, and business documentation.
 
-**Stack:** Next.js, TypeScript, OpenAI, PDF/DOCX generation
+**Stack:** Python, FastAPI, Next.js, TypeScript, GPT-4o Vision, PostgreSQL
 
 Capabilities:
 - Upload handwritten source material
@@ -33,7 +39,7 @@ Capabilities:
 ---
 
 ### fieldscript-api
-Production-style FastAPI backend demonstrating strict API design, validation, and testing discipline.
+Production-grade FastAPI backend demonstrating strict API design, validation, and testing discipline.
 
 **Stack:** Python, FastAPI, pytest
 
@@ -47,7 +53,7 @@ Highlights:
 ---
 
 ### ai-content-intelligence-pipeline
-NDA-safe AI workflow architecture example showing modular content ingestion, normalization, and deterministic AI generation.
+NDA-safe AI workflow architecture example demonstrating ingestion, normalization, classification, summarization, and deterministic content generation.
 
 **Stack:** Python
 
@@ -65,7 +71,7 @@ Production business website built and deployed for a live property marketing use
 
 ## Background
 
-I transitioned into software and AI systems development after hands-on operational work in construction and service industries, with a focus on solving practical workflow problems through automation. Engineering Bachelor's from the University of Colorado Boulder and certified AI developer through IBM.
+AI Systems Developer focused on building production AI applications, workflow automation systems, document intelligence platforms, and backend APIs. My background in construction and operations helps me identify practical business problems and translate them into software solutions. Engineering Bachelor's from the University of Colorado Boulder and IBM AI Developer Professional Certificate holder
 
 ## Connect
 
